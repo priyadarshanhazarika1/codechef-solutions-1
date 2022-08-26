@@ -16,6 +16,10 @@ SOLUTIONS:
 
 5) Test Averages - https://www.codechef.com/viewsolution/72397191
 
-6) 
+6) Burgers - https://www.codechef.com/viewsolution/72421801
 
-7)
+7) Age Limit - https://www.codechef.com/viewsolution/72423958
+
+8) Fit - https://www.codechef.com/viewsolution/72426731
+
+9) DetScore - https://www.codechef.com/viewsolution/72482888
