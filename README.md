@@ -23,3 +23,5 @@ SOLUTIONS:
 8) Fit - https://www.codechef.com/viewsolution/72426731
 
 9) DetScore - https://www.codechef.com/viewsolution/72482888
+
+10) Taller - https://www.codechef.com/viewsolution/72483632
