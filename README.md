@@ -25,3 +25,23 @@ SOLUTIONS:
 9) DetScore - https://www.codechef.com/viewsolution/72482888
 
 10) Taller - https://www.codechef.com/viewsolution/72483632
+
+11) Best of Two - https://www.codechef.com/viewsolution/72484117
+
+12) How many unattempted problems - https://www.codechef.com/viewsolution/72486267
+
+13) Roller Coaster - https://www.codechef.com/viewsolution/72486463
+
+14) Chef and brain speed - https://www.codechef.com/viewsolution/72486689
+
+15) Chef On Date - https://www.codechef.com/viewsolution/72487297
+
+16) Counting Words - https://www.codechef.com/viewsolution/72487734
+
+17) 
+
+18)
+
+19) 
+
+20) 
