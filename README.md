@@ -38,10 +38,12 @@ SOLUTIONS:
 
 16) Counting Words - https://www.codechef.com/viewsolution/72487734
 
-17) 
+17) PRIZEPOOL - https://www.codechef.com/viewsolution/72515638
 
-18)
+18) SNDMAX - https://www.codechef.com/viewsolution/72516117
 
-19) 
+19) CHAIRS - https://www.codechef.com/viewsolution/72516486
 
-20) 
+20) SUBSCRIPTION - https://www.codechef.com/viewsolution/72516848
+
+21) ENSPACE - https://www.codechef.com/viewsolution/72517152
