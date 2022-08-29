@@ -47,3 +47,16 @@ SOLUTIONS:
 20) SUBSCRIPTION - https://www.codechef.com/viewsolution/72516848
 
 21) ENSPACE - https://www.codechef.com/viewsolution/72517152
+
+22) WAITTIME - https://www.codechef.com/viewsolution/72537273
+
+23) EQUALDIST - https://www.codechef.com/viewsolution/72537642
+
+24) AUCTION - https://www.codechef.com/viewsolution/72538010
+
+25) CHESSTIME - https://www.codechef.com/viewsolution/72538384
+
+26) FAIRPASS - https://www.codechef.com/viewsolution/72538629
+
+27) M1ENROL - https://www.codechef.com/viewsolution/72539264
+
