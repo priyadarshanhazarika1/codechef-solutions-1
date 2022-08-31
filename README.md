@@ -60,3 +60,14 @@ SOLUTIONS:
 
 27) M1ENROL - https://www.codechef.com/viewsolution/72539264
 
+28) SEMCOURSES - https://www.codechef.com/viewsolution/72539559
+
+29) WATERREQ - https://www.codechef.com/viewsolution/72539770
+
+30) LTIME - https://www.codechef.com/viewsolution/72539993
+
+31) APPLORNG - https://www.codechef.com/viewsolution/72540256
+
+32) POPULATION - https://www.codechef.com/viewsolution/72540665
+
+33) PARTY2 - https://www.codechef.com/viewsolution/72634726
