@@ -71,3 +71,9 @@ SOLUTIONS:
 32) POPULATION - https://www.codechef.com/viewsolution/72540665
 
 33) PARTY2 - https://www.codechef.com/viewsolution/72634726
+
+34) CREDS - https://www.codechef.com/viewsolution/72766166
+
+35) TCKTFINE - https://www.codechef.com/viewsolution/72776407
+
+36) 
