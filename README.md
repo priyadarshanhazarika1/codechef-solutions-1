@@ -76,4 +76,4 @@ SOLUTIONS:
 
 35) TCKTFINE - https://www.codechef.com/viewsolution/72776407
 
-36) 
+36) AIRHOCKEY - https://www.codechef.com/viewsolution/72910702
