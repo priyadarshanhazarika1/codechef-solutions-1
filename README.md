@@ -77,3 +77,22 @@ SOLUTIONS:
 35) TCKTFINE - https://www.codechef.com/viewsolution/72776407
 
 36) AIRHOCKEY - https://www.codechef.com/viewsolution/72910702
+
+37) INTRDSGN - https://www.codechef.com/viewsolution/72961172
+
+38) EMAILREM - https://www.codechef.com/viewsolution/72961337
+
+39) SIXFRIENDS - https://www.codechef.com/viewsolution/72962149
+
+40) MINCOINSREQ - https://www.codechef.com/viewsolution/72964977
+
+41) TFPAPER - https://www.codechef.com/viewsolution/72965211
+
+42) CABS - https://www.codechef.com/viewsolution/72965461
+
+43) ADVANCE - https://www.codechef.com/viewsolution/72966196
+
+44) DISCNT - https://www.codechef.com/viewsolution/72966912
+
+45)
+
