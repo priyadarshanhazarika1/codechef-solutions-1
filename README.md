@@ -94,5 +94,34 @@ SOLUTIONS:
 
 44) DISCNT - https://www.codechef.com/viewsolution/72966912
 
-45)
+45) HEIGHTRATION - https://www.codechef.com/viewsolution/73068767
 
+46) CCHOCOLATES - https://www.codechef.com/viewsolution/73069176
+
+47) VOLCONTROL - https://www.codechef.com/viewsolution/73069447
+
+48) HOTCOLD - https://www.codechef.com/viewsolution/73070628
+
+49) FOOTCUP - https://www.codechef.com/viewsolution/73071407
+
+50) FBC - https://www.codechef.com/viewsolution/73071883
+
+51) 
+
+52) 
+
+53) 
+
+54) 
+
+55) 
+
+56) 
+
+57)
+
+58) 
+
+59) 
+
+60) 
