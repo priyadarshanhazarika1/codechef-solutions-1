@@ -106,22 +106,9 @@ SOLUTIONS:
 
 50) FBC - https://www.codechef.com/viewsolution/73071883
 
-51) 
+51) FLOW002 - https://www.codechef.com/viewsolution/73110037
 
-52) 
+52) PASSTHEEXAM - https://www.codechef.com/viewsolution/73110728
 
-53) 
+53) ISBOTH - https://www.codechef.com/viewsolution/73112667
 
-54) 
-
-55) 
-
-56) 
-
-57)
-
-58) 
-
-59) 
-
-60) 
