@@ -112,3 +112,17 @@ SOLUTIONS:
 
 53) ISBOTH - https://www.codechef.com/viewsolution/73112667
 
+54) BUYPULSE - https://www.codechef.com/viewsolution/73112842
+
+55) RNGEODD - https://www.codechef.com/viewsolution/73113300
+
+56) VALTRI - https://www.codechef.com/viewsolution/73113843
+
+57) SECLAR - https://www.codechef.com/viewsolution/73116380
+
+58) FEVER - https://www.codechef.com/viewsolution/73244206
+
+59) BROKENPHONE - https://www.codechef.com/viewsolution/73251350
+
+60) BALLBOX - https://www.codechef.com/viewsolution/73469361
+
