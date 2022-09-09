@@ -126,3 +126,6 @@ SOLUTIONS:
 
 60) BALLBOX - https://www.codechef.com/viewsolution/73469361
 
+61) CWIREFRAME - https://www.codechef.com/viewsolution/73561567
+
+62) BOBBANK - https://www.codechef.com/viewsolution/73564590
