@@ -129,3 +129,9 @@ SOLUTIONS:
 61) CWIREFRAME - https://www.codechef.com/viewsolution/73561567
 
 62) BOBBANK - https://www.codechef.com/viewsolution/73564590
+
+63) MANIPULATE - https://www.codechef.com/viewsolution/73677078
+
+64) CMASKS - https://www.codechef.com/viewsolution/73678916
+
+65) MAXIMUMSUBS - https://www.codechef.com/viewsolution/73680051
