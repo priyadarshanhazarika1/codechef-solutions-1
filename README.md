@@ -135,3 +135,13 @@ SOLUTIONS:
 64) CMASKS - https://www.codechef.com/viewsolution/73678916
 
 65) MAXIMUMSUBS - https://www.codechef.com/viewsolution/73680051
+
+66) EXPIRY - https://www.codechef.com/viewsolution/73831004
+
+67) AIANALYSE - https://www.codechef.com/viewsolution/73831463
+
+68) TVDISC - https://www.codechef.com/viewsolution/73833255
+
+69) TYRE - https://www.codechef.com/viewsolution/73836088
+
+70) INSTNOODLE - https://www.codechef.com/viewsolution/73838723
