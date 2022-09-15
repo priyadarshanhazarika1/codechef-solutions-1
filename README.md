@@ -145,3 +145,25 @@ SOLUTIONS:
 69) TYRE - https://www.codechef.com/viewsolution/73836088
 
 70) INSTNOODLE - https://www.codechef.com/viewsolution/73838723
+
+71) BUDJET_ - https://www.codechef.com/viewsolution/74163614
+
+72) CREDSCORE - https://www.codechef.com/viewsolution/74166306
+
+73) INTEST - https://www.codechef.com/viewsolution/74168386
+
+74) NEARESTEXIT - https://www.codechef.com/viewsolution/74170133
+
+75) COURSEREG - https://www.codechef.com/viewsolution/74177711
+
+76) CHEFGAMES - https://www.codechef.com/viewsolution/74198753
+
+77) INSURANCE - https://www.codechef.com/viewsolution/74261475
+
+78) INCRIQ - https://www.codechef.com/viewsolution/74261736
+
+79) BATTERYLOW - https://www.codechef.com/viewsolution/74261955
+
+80) WATERFLOW - https://www.codechef.com/viewsolution/74262429
+
+
