@@ -166,4 +166,4 @@ SOLUTIONS:
 
 80) WATERFLOW - https://www.codechef.com/viewsolution/74262429
 
-
+81) F1RULE - https://www.codechef.com/viewsolution/74320300
