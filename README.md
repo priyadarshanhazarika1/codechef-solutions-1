@@ -168,4 +168,9 @@ SOLUTIONS:
 
 81) F1RULE - https://www.codechef.com/viewsolution/74320300
 
+82) DOMINANT - https://www.codechef.com/viewsolution/74438448
+
+83) SONGS - https://www.codechef.com/viewsolution/74438856
+
+84) CHEFCHOCO - https://www.codechef.com/viewsolution/74439344
 
