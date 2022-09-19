@@ -174,8 +174,8 @@ SOLUTIONS:
 
 84) CHEFCHOCO - https://www.codechef.com/viewsolution/74439344
 
-85) 
+85) CGYM - https://www.codechef.com/viewsolution/74498086
 
-86) 
+86) CHEAPFOOD - https://www.codechef.com/viewsolution/74501223
 
-87) 
+87) SUBSCRIBE_ - https://www.codechef.com/viewsolution/74512329
