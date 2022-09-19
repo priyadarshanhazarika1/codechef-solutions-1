@@ -174,3 +174,8 @@ SOLUTIONS:
 
 84) CHEFCHOCO - https://www.codechef.com/viewsolution/74439344
 
+85) 
+
+86) 
+
+87) 
