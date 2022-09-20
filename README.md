@@ -179,3 +179,16 @@ SOLUTIONS:
 86) CHEAPFOOD - https://www.codechef.com/viewsolution/74501223
 
 87) SUBSCRIBE_ - https://www.codechef.com/viewsolution/74512329
+
+88) WATERCOOLER1 - https://www.codechef.com/viewsolution/74549092
+
+89) JASSIGNMENT - https://www.codechef.com/viewsolution/74549629
+
+90) SHOPCHANGE - https://www.codechef.com/viewsolution/74549756
+
+91) JCOINS - https://www.codechef.com/viewsolution/74549971
+
+92) OFFICE - https://www.codechef.com/viewsolution/74550223
+
+93) CREDCOINS - https://www.codechef.com/viewsolution/74551874
+
