@@ -197,3 +197,7 @@ SOLUTIONS:
 95) HELIUM3 - https://www.codechef.com/viewsolution/74645363
 
 96) NOTEBOOK - https://www.codechef.com/viewsolution/74645897
+
+97) TRUESCORE - https://www.codechef.com/viewsolution/74845975
+
+98) THREETOPICS - https://www.codechef.com/viewsolution/74850040
