@@ -201,3 +201,9 @@ SOLUTIONS:
 97) TRUESCORE - https://www.codechef.com/viewsolution/74845975
 
 98) THREETOPICS - https://www.codechef.com/viewsolution/74850040
+
+99) SUMNEQ- https://www.codechef.com/viewsolution/74861617
+
+100) MARKSTW - https://www.codechef.com/viewsolution/74862139 
+
+100 Problems Solved 
